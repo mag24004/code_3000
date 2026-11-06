@@ -16,3 +16,6 @@ Your goal is to connect anonymized data back to its source data and check the ma
 
 ### Module 08: Sustainability in Computing
 You will be given a toy dataset and have the opportunity to explore the potential effects of choosing sustainable energy sources to perform computations. You'll code the energy calculation in "sustainability calculations" script, and then you can review the results of various decisions in the "check calculations" notebook. 
+
+### Homework 9
+After reading Chapter 5 of "Ethical Machines", I agree with the author's point of how ethical statements can become meaningless when they are too general. I didn't really think about it like that, but after reading the chapter it makes sense especially because the technology developers create can have a big impact on people. So I think developers should definitely take their time to consider the consequences of their work. I also think that companies should take responsibility when their technology causes harm rather than only bringing up ethics to make themselves look good and like they care. Overall, this chapter made me realize that ethics should actually be an entire process and not just something companies say they care about. 
